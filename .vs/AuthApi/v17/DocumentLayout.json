@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E33E1F4-76F0-4CC7-B932-5FD1B7F52B72}|AuthApi\\AuthApi.csproj|c:\\users\\ajibola\\source\\repos\\authapi\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Dockerfile",
-              "RelativeDocumentMoniker": "AuthApi\\Dockerfile",
-              "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Dockerfile",
-              "RelativeToolTip": "AuthApi\\Dockerfile",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "gitignore",
+              "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\gitignore",
+              "RelativeDocumentMoniker": "AuthApi\\gitignore",
+              "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\gitignore",
+              "RelativeToolTip": "AuthApi\\gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-09T13:35:44.422Z",
+              "WhenOpened": "2025-07-09T16:18:52.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "AuthApi\\IService\\IAuthService.cs",
@@ -75,12 +79,11 @@
               "RelativeToolTip": "AuthApi\\IService\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:32:47.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T12:32:47.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "AuthApi\\Data\\ApplicationDbContext.cs",
@@ -88,25 +91,23 @@
               "RelativeToolTip": "AuthApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:43:43.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T11:43:43.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\appsettings.json",
               "RelativeDocumentMoniker": "AuthApi\\appsettings.json",
               "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\appsettings.json",
               "RelativeToolTip": "AuthApi\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T12:43:40.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T12:43:40.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AuthApi\\Controllers\\AuthController.cs",
@@ -118,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Model\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "AuthApi\\Model\\ApplicationUser.cs",
@@ -126,12 +127,36 @@
               "RelativeToolTip": "AuthApi\\Model\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:30:54.872Z",
+              "WhenOpened": "2025-06-25T13:30:54.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "AuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
+              "RelativeToolTip": "AuthApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:52:54.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Dockerfile",
+              "RelativeDocumentMoniker": "AuthApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Dockerfile",
+              "RelativeToolTip": "AuthApi\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T13:35:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "AuthApi\\Services\\AuthService.cs",
@@ -143,19 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
-              "RelativeDocumentMoniker": "AuthApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\Program.cs",
-              "RelativeToolTip": "AuthApi\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T12:52:54.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserLoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\DTOs\\UserLoginDTO.cs",
               "RelativeDocumentMoniker": "AuthApi\\DTOs\\UserLoginDTO.cs",
@@ -167,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserSIgnUpDTO.cs",
               "DocumentMoniker": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\DTOs\\UserSIgnUpDTO.cs",
               "RelativeDocumentMoniker": "AuthApi\\DTOs\\UserSIgnUpDTO.cs",
