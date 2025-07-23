@@ -49,7 +49,7 @@ namespace AuthApi.Services
         public async Task<(bool success, string message, string token)> LoginUserAsync(UserLoginDTO request)
         {
             var ExistingUser = await _userManager.FindByEmailAsync(request.Email);
-            if (ExistingUser != null)
+            if (ExistingUser == null)
             {
                 return (false, "user not found", null);
             }

@@ -1,6 +1,6 @@
-# Ignore build/temp files
+*.vs/
 bin/
 obj/
 *.user
 *.suo
-*.vs/
+
