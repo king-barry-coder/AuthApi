@@ -62,8 +62,7 @@
               "RelativeToolTip": "AuthApi\\Services\\AuthService.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowCYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:47:26.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T12:47:26.529Z"
             },
             {
               "$type": "Document",
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "AuthApi\\appsettings.json",
               "ToolTip": "C:\\Users\\Ajibola\\source\\repos\\AuthApi\\AuthApi\\appsettings.json",
               "RelativeToolTip": "AuthApi\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-02T12:43:40.45Z",
               "EditorCaption": ""
@@ -88,8 +87,7 @@
               "RelativeToolTip": "AuthApi\\IService\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T12:32:47.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T12:32:47.015Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "AuthApi\\DTOs\\UserSIgnUpDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:39:41.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T13:39:41.847Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "AuthApi\\DTOs\\UserLoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T13:55:57.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T13:55:57.655Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "AuthApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T11:43:43.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T11:43:43.927Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "AuthApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T12:43:07.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T12:43:07.221Z"
             },
             {
               "$type": "Document",
